@@ -15,8 +15,15 @@ Some step: https://github.com/EloiStree/HelloRustBending/issues/37
 sudo apt update
 sudo apt install python3 python3-venv python3-pip -y
 
+git config --global user.email "name@gmail.com"
+git config --global user.name "Name"
+
 ```
 
+
+
+Launch Script at start:
+- https://youtu.be/DUGZC-tNm2w?t=95
 
 ``
 ``
