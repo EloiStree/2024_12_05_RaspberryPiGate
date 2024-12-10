@@ -56,12 +56,16 @@ sudo systemctl start discord_bot.service
 
 
 An other user dependant: 
-nano ~/.bashrc
 
+`nano ~/.bashrc`
+
+```
 # https://github.com/EloiStree/2024_12_07_HelloMegaMaskDiscordBot
 @reboot /usr/bin/python3 /git/discord_bot/RunBot.py &
 # https://github.com/EloiStree/2024_12_11_HelloMegaMaskTwitchBot
 @reboot /usr/bin/python3 /git/twitch_bot/RunBot.py &
+
+```
 ```
 ``
 ``
