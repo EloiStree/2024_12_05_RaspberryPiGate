@@ -6,6 +6,7 @@ You will find here some code in python that I can trigger on my Pi to allows rel
 
 The idea here is to avoir on server to received all the message of the community on a single device.
 
+Some step: https://github.com/EloiStree/HelloRustBending/issues/37
 
 `sudo apt install git`
 
