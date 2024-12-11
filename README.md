@@ -1,5 +1,11 @@
 # Raspberry Pi Gate
 
+
+
+- **Twitch Bot**: [GitHub Repository](https://github.com/EloiStree/2024_12_11_HelloMegaMaskTwitchBot)  
+- **Discord Bot**: [GitHub Repository](https://github.com/EloiStree/2024_12_07_HelloMegaMaskDiscordBot)
+- **NoIP DDNS**: [Github Repository](https://github.com/EloiStree/2024_12_11_NoIpUpdateFromPiPython)
+
 I have several Raspberry Pi at home that are not used and that could be used.
 
 You will find here some code in python that I can trigger on my Pi to allows relay message.
