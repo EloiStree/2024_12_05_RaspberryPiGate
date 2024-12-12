@@ -83,5 +83,9 @@ An other user dependant:
 ```
 ```
 ``
-``
+Go in root admin mode
+`sudo -i`
+https://chatgpt.com/share/675b2c40-2e3c-800e-aacb-388d0576c1bb
+PermitRootLogin yes
+ssh root@<Raspberry_Pi_IP_Address>
 ``
