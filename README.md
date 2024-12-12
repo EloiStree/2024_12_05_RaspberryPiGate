@@ -84,8 +84,13 @@ An other user dependant:
 ```
 ``
 Go in root admin mode
+
+
 `sudo -i`
-https://chatgpt.com/share/675b2c40-2e3c-800e-aacb-388d0576c1bb
-PermitRootLogin yes
-ssh root@<Raspberry_Pi_IP_Address>
+https://chatgpt.com/share/675b2c40-2e3c-800e-aacb-388d0576c1bb  
+`cd root passwrd`  
+`sudo nano /etc/ssh/sshd_config`    
+`PermitRootLogin yes`  
+`sudo systemctl restart ssh`  
+`ssh root@<Raspberry_Pi_IP_Address>`  
 ``
