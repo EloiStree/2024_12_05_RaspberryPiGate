@@ -1,5 +1,14 @@
 # Raspberry Pi Gate
 
+**Learn to install a Raspberry Pi 5 server at home:**  
+[![image](https://github.com/user-attachments/assets/e49c6165-4828-4561-9a95-c49be9e7771e)](https://youtu.be/dMZApM_3itA)  
+
+- Learn how to set up your Pi 5 at home with a DDNS for a "static" IP:  
+  [https://github.com/EloiStree/HelloEloiTeachingVideo/issues/127](https://github.com/EloiStree/HelloEloiTeachingVideo/issues/127)  
+
+- Learn more about using the Pi 5 as an integer server:  
+  [https://www.youtube.com/@EloiTeaching/search?query=🍺.io](https://www.youtube.com/@EloiTeaching/search?query=🍺.io)  
+
 
 
 - **Twitch Bot**: [GitHub Repository](https://github.com/EloiStree/2024_12_11_HelloMegaMaskTwitchBot)  
