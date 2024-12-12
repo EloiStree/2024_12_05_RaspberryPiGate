@@ -94,3 +94,4 @@ https://chatgpt.com/share/675b2c40-2e3c-800e-aacb-388d0576c1bb
 `sudo systemctl restart ssh`  
 `ssh root@<Raspberry_Pi_IP_Address>`  
 ``
+Bad permission: https://www.youtube.com/watch?v=AQl4JS-kwns
