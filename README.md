@@ -13,7 +13,8 @@
  Code on my Pi 5:   
 - **Twitch Bot**: [GitHub Repository](https://github.com/EloiStree/2024_12_11_HelloMegaMaskTwitchBot)   
 - **Discord Bot**: [GitHub Repository](https://github.com/EloiStree/2024_12_07_HelloMegaMaskDiscordBot)  
-- **NoIP DDNS**: [Github Repository](https://github.com/EloiStree/2024_12_11_NoIpUpdateFromPiPython)  
+- **NoIP DDNS**: [Github Repository](https://github.com/EloiStree/2024_12_11_NoIpUpdateFromPiPython)
+- **Stream Tunneling 🦊 WS**: [Github Repository](https://github.com/EloiStree/2024_12_17_SingleTunnelMegaMaskWSUDP)  
 
 I have several Raspberry Pi at home that are not used and that could be used.
 
