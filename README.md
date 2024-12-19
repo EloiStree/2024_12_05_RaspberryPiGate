@@ -17,6 +17,8 @@
 - **Stream Tunneling 🦊 WS**: [Github Repository](https://github.com/EloiStree/2024_12_17_SingleTunnelMegaMaskWSUDP)
 - **Flask API**: [GitHub Repository](https://github.com/EloiStree/apint.io/tree/main/flask)
 
+**:[Restart service](https://github.com/EloiStree/2024_12_05_RaspberryPiGate/issues/4)**
+
 I have several Raspberry Pi at home that are not used and that could be used.
 
 You will find here some code in python that I can trigger on my Pi to allows relay message.
